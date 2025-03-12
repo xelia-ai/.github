@@ -22,4 +22,4 @@ Según Gartner, para 2027 el **25% de las empresas reemplazarán agentes humanos
 
 ## 🔗 Más información  
 🌍 **Web:** [www.xelia.ai](https://www.xelia.ai)  
-📧 **Contacto:** monteroca77@gmail.com  
+📧 **Contacto:** hola@xelia.ai  
